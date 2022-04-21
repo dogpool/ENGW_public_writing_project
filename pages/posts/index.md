@@ -1,6 +1,6 @@
 ---
 type: page
-title: About
+title: index
 date: 2021-03-19
 ---
 

@@ -89,12 +89,13 @@ Therefore it is necessary for us to be constantly learning
 about what **not** to do with our hard-earned money. 
 Always being vigilant for pyramid schemes, bad deals, and scammers
 is the only way we can remain safe. The best way to remain vigilant is
-1) Always do your own research
-2) Don't take others' words for granted
-3) Do not be close-minded to alternatives to bank savings
-4) Hire a financial consultant to double-check everything
-5) Make sure you do not make mistakes you can not afford (A consultant helps this as well)
-6) Don't lose your motivation, it might be extremely difficult, but it's never impossible.
+
+1. Always do your own research
+2. Don't take others' words for granted
+3. Do not be close-minded to alternatives to bank savings
+4. Hire a financial consultant to double-check everything
+5. Make sure you do not make mistakes you can not afford (A consultant helps this as well)
+6. Don't lose your motivation, it might be extremely difficult, but it's never impossible.
 ---
 
 - Email ardahash@protonmail.com -- Contact for questions

@@ -1,9 +1,4 @@
 ---
-type: posts
-title: Posts
-date: 2021-03-18
----
----
 type: page
 title: About
 date: 2021-03-19

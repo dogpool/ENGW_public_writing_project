@@ -9,11 +9,11 @@ title: About
 date: 2021-03-19
 ---
 
-# The Housing Crisis
+### The Housing Crisis
 
 ## Housing prices are through the roof!
 
-### Whether we are buying or renting, any real estate property in big cities is just simply too expensive. 
+# Whether buying or renting, almost all reast estate is just becoming too expensive. 
 
 My guess is that tomorrow, housing prices will increase even more.
  

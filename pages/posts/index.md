@@ -95,4 +95,3 @@ is the only way we can remain safe. The best way to remain vigilant is
 
 - Email ardahash@protonmail.com -- Contact for questions
 
-# Posts
